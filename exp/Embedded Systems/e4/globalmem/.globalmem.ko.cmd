@@ -1,0 +1,1 @@
+cmd_/home/pc/文档/workspace/globalmem/globalmem.ko := arm-linux-ld -EL -r  -T /home/pc/文档/workspace/linux-3.5/scripts/module-common.lds --build-id  -o /home/pc/文档/workspace/globalmem/globalmem.ko /home/pc/文档/workspace/globalmem/globalmem.o /home/pc/文档/workspace/globalmem/globalmem.mod.o
